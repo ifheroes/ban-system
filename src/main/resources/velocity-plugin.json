@@ -1,0 +1,6 @@
+{
+  "id": "ifheroes-ban",
+  "name": "Ifheroes Ban",
+  "version": "1.0.0",
+  "main": "net.ifheroes.ban.BanPlugin"
+}

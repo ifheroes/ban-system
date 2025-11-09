@@ -1,0 +1,6 @@
+net/ifheroes/ban/store/JsonFileBanStore.class
+net/ifheroes/ban/store/JsonFileBanStore$BanEntry.class
+net/ifheroes/ban/commands/BanCommand.class
+net/ifheroes/ban/commands/KickCommand.class
+net/ifheroes/ban/BanPlugin.class
+net/ifheroes/ban/commands/UnbanCommand.class
